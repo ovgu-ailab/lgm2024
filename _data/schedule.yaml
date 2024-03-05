@@ -1,0 +1,8 @@
+lectures:
+  - date: 2024-04-09
+    type: 
+    content:
+    - title: Introduction
+      xslides: lectures/00-Introduction.pdf
+
+  
