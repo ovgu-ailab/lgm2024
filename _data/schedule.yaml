@@ -5,7 +5,7 @@ lectures:
     - title: Introduction
       xslides: lectures/00-Introduction.pdf
 
-  - date: 2023-04-11
+  - date: 2024-04-11
     type:
     content:
       - title: Exercise 01
@@ -13,3 +13,17 @@ lectures:
     assignment:
       - label: "Assignment 0: Why Generative Models"
         link: assignment0.html
+
+  - date: 2024-04-16
+    type:
+    content:
+      - title: Graphical Models & Monte Carlo Methods
+        slides:
+    reading:
+      - title: "Deep Learning Book - Chapter 16: Structured Probabilistic Models for Deep Learning (selected passages)"
+        url: http://www.deeplearningbook.org/contents/graphical_models.html
+      - title: "Deep Learning Book - Chapter 17: Monte Carlo Methods (selected passages)"
+        url: http://www.deeplearningbook.org/contents/monte_carlo.html
+    assignment:
+      - label: reading
+        link: reading1.html
