@@ -27,3 +27,12 @@ lectures:
     assignment:
       - label: reading
         link: reading1.html
+
+  - date: 2024-04-18
+    type:
+    content:
+      - title: Exercise 02
+        slides:
+    assignment:
+      - label: "Assignment 1: Probability Review"
+        link: assignment1.html
