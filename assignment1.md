@@ -9,6 +9,8 @@ id: ass1
 **Discussion: April 18th**  
 **Deadline: April 18th, 9am**
 
+**If you haven't done so, please see the [general assignment notes](https://ovgu-ailab.github.io/lgm2024/assignment0.html)
+posted with Assignment 0.**
 
 ## Testing Illnesses
 Consider a dangerous and/or common illness that people are being tested for to
