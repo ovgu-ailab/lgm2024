@@ -50,3 +50,12 @@ lectures:
     assignment:
         - label: reading
           link: reading2.html
+
+  - date: 2024-04-25
+    type:
+    content:
+      - title: Exercise 03
+        slides:
+    assignment:
+      - label: "Assignment 2: MCMC and Gibbs Sampling"
+        link: assignment2.html
