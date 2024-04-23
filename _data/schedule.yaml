@@ -59,3 +59,14 @@ lectures:
     assignment:
       - label: "Assignment 2: MCMC and Gibbs Sampling"
         link: assignment2.html
+
+  - date: 2024-04-30
+    type:
+    content:
+      - title: Approximate Inference & VAEs
+        slides:
+    reading:
+      - title: "Selected resources"
+    assignment:
+      - label: reading
+        link: reading3.html
