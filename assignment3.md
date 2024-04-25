@@ -12,6 +12,9 @@ id: ass3
 In this assignment, we will be implementing a Binary RBM. This requires some
 low-level programming rather than just sticking a bunch of layers together.
 
+For additional assistance, there is a starter notebook on Gitlab, as well as
+a summary of the exercise board on Mattermost.
+
 Start off by implementing the RBM model and algorithm 18.1 from the deep learning book.
 - The main thing here is actually implementing the `gibbs_update` step. Recall
 that RBMs allow for efficient Gibbs sampling by first updating all hidden 
@@ -33,7 +36,7 @@ unnormalized probabilities. This is required for both the positive and negative 
     the hidden variables `h`. The most straightforward way to get these is to
     take a sample from `p(h|v)` where `v` is the real data.
 - You can use `GradientTape` to compute the gradient update by treating 
-"negative phase minus positive phase" as a loss function to be minimized.
+"negative phase minus positive phase" as a loss function to be **minimized**.
 However, the "ideal" value for this loss will actually be 0 (data and model
 distributions are identical) despite the function in principle being able to
 take on any value. If your loss decreases to arbitrarily large negative values
@@ -75,7 +78,7 @@ sampling step from the visible units (just like for the positive phase).
 
 Test your algorithms once again and compare the results (as well as the speed at
 which you achieve them) to the basic algorithm. You can probably cut the number of
-burn-in steps significantly (say, 10x fewer).
+burn-in steps significantly (say, 5-10x fewer).
 
 ## Bonus
 
