@@ -110,3 +110,14 @@ lectures:
     assignment:
         - label: reading
           link: reading5.html
+
+  - date: 2024-05-21
+    type:
+    content:
+    - title: Autoregressive Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading6.html
