@@ -121,3 +121,12 @@ lectures:
     assignment:
         - label: reading
           link: reading6.html
+
+  - date: 2024-05-23
+    type:
+    content:
+      - title: Exercise 06
+        slides:
+    assignment:
+      - label: "Assignment 5: Generative Adversarial Networks"
+        link: assignment5.html
