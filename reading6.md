@@ -7,7 +7,7 @@ id: reading6
 
 # Reading Assignment 6: Autoregressive Models
 
-[Chapter 21 from Probabilistic Machine Learning: Advanced 
+[Chapter 22 from Probabilistic Machine Learning: Advanced 
 Methods](https://probml.github.io/pml-book/book2.html) gives a good overview of
 autoregressive models. Since these models are conceptually very straightforward,
 there is not too much deep theory here.
