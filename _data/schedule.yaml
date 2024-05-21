@@ -130,3 +130,14 @@ lectures:
     assignment:
       - label: "Assignment 5: Generative Adversarial Networks"
         link: assignment5.html
+
+  - date: 2024-05-28
+    type:
+    content:
+    - title: Normalizing Flows
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading7.html
