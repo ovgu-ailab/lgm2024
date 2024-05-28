@@ -150,3 +150,14 @@ lectures:
     assignment:
       - label: "Assignment 6: Autoregressive Language Modeling"
         link: assignment6.html
+
+  - date: 2024-06-03
+    type:
+    content:
+    - title: Score-based Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading8.html
