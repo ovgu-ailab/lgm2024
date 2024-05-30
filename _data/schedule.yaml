@@ -161,3 +161,12 @@ lectures:
     assignment:
         - label: reading
           link: reading8.html
+
+  - date: 2024-06-06
+    type:
+    content:
+      - title: Exercise 07
+        slides:
+    assignment:
+      - label: "Assignment 7: Flows"
+        link: assignment7.html
