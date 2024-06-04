@@ -170,3 +170,14 @@ lectures:
     assignment:
       - label: "Assignment 7: Flows"
         link: assignment7.html
+
+  - date: 2024-06-10
+    type:
+    content:
+    - title: Denoising Diffusion Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading9.html
