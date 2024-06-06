@@ -181,3 +181,13 @@ lectures:
     assignment:
         - label: reading
           link: reading9.html
+
+
+  - date: 2024-06-13
+    type:
+    content:
+      - title: Exercise 08
+        slides:
+    assignment:
+      - label: "Assignment 8: Score-Based Generative Models"
+        link: assignment8.html
