@@ -22,7 +22,7 @@ Let's look at these components in turn. We will be referring back to these paper
 - [Original paper](https://arxiv.org/pdf/1907.05600.pdf)
 - [Improved follow-up](https://arxiv.org/pdf/2006.09011.pdf)
 
-**Once again, there is a template on Gitlab! (TBD)**
+**Once again, there is a template on Gitlab!**
 
 
 ## Noise-conditional Score Model
