@@ -101,7 +101,7 @@ lectures:
     assignment:
         - label: reading
           link: reading5.html
-          
+
   - date: 2024-05-16
     type:
     content:
@@ -182,7 +182,6 @@ lectures:
         - label: reading
           link: reading9.html
 
-
   - date: 2024-06-13
     type:
     content:
@@ -191,3 +190,14 @@ lectures:
     assignment:
       - label: "Assignment 8: Score-Based Generative Models"
         link: assignment8.html
+
+  - date: 2022-06-18
+    type:
+    content:
+      - title: Text-to-Image Generative Models
+        slides:
+    reading:
+      - title: "Selected resources"
+    assignment:
+      - label: reading
+        link: reading10.html
