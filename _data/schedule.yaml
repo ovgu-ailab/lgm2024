@@ -201,3 +201,12 @@ lectures:
     assignment:
       - label: reading
         link: reading10.html
+
+  - date: 2024-06-20
+    type:
+    content:
+      - title: Exercise 09
+        slides:
+    assignment:
+      - label: "Assignment 9: Denoising Diffusion Models"
+        link: assignment9.html
