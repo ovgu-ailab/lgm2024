@@ -210,3 +210,14 @@ lectures:
     assignment:
       - label: "Assignment 9: Denoising Diffusion Models"
         link: assignment9.html
+
+  - date: 2022-06-25
+    type:
+    content:
+      - title: Advanced VAEs and GANs
+        slides:
+    reading:
+      - title: "Selected resources"
+    assignment:
+      - label: reading
+        link: reading11.html
