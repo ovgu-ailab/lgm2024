@@ -165,7 +165,7 @@ lectures:
   - date: 2024-06-06
     type:
     content:
-      - title: Exercise 07
+      - title: Exercise 08
         slides:
     assignment:
       - label: "Assignment 7: Flows"
@@ -185,7 +185,7 @@ lectures:
   - date: 2024-06-13
     type:
     content:
-      - title: Exercise 08
+      - title: Exercise 09
         slides:
     assignment:
       - label: "Assignment 8: Score-Based Generative Models"
@@ -205,7 +205,7 @@ lectures:
   - date: 2024-06-20
     type:
     content:
-      - title: Exercise 09
+      - title: Exercise 10
         slides:
     assignment:
       - label: "Assignment 9: Denoising Diffusion Models"
@@ -221,3 +221,12 @@ lectures:
     assignment:
       - label: reading
         link: reading11.html
+
+  - date: 2024-06-27
+    type:
+    content:
+      - title: Exercise 11
+        slides:
+    assignment:
+      - label: "Assignment 10: Conditional & Guided Diffusion"
+        link: assignment10.html
