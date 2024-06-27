@@ -241,3 +241,12 @@ lectures:
     assignment:
         - label: reading
           link: reading12.html
+
+  - date: 2024-07-04
+    type:
+    content:
+      - title: Exercise 12
+        slides:
+    assignment:
+      - label: "Assignment 11: Basic Audio Generation"
+        link: assignment11.html
